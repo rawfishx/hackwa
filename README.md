@@ -9,4 +9,5 @@ pip install requests colorama rich bs4
 termux-setup-storage
 git clone https://github.com/rawfishx/hackwa
 cd hackwa
-python3
+python3 hackwa.py
+```
