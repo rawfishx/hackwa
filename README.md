@@ -1,0 +1,2 @@
+# hackwa
+HACK WA (SCRIPT HARAM)
